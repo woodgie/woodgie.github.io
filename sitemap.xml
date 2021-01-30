@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.woodgie.net/</loc>
+    <lastmod>2021-01-30T15:21:42+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.woodgie.net/posts/</loc>
     <lastmod>2021-01-30T15:21:42+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.woodgie.net/posts/testing-architypes-again/</loc>
-    <lastmod>2021-01-30T15:21:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.woodgie.net/</loc>
     <lastmod>2021-01-30T15:21:42+00:00</lastmod>
   </url>
   
