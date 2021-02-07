@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I&#39;m text most people ignore</title>
+    <title></title>
     <link>https://blog.woodgie.net/</link>
-    <description>Recent content on I&#39;m text most people ignore</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 15:21:42 +0000</lastBuildDate><atom:link href="https://blog.woodgie.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 14:39:42 +0000</lastBuildDate><atom:link href="https://blog.woodgie.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing Architypes Again</title>
-      <link>https://blog.woodgie.net/posts/testing-architypes-again/</link>
-      <pubDate>Sat, 30 Jan 2021 15:21:42 +0000</pubDate>
+      <title>Hello World</title>
+      <link>https://blog.woodgie.net/posts/hello-world/</link>
+      <pubDate>Sun, 07 Feb 2021 14:39:42 +0000</pubDate>
       
-      <guid>https://blog.woodgie.net/posts/testing-architypes-again/</guid>
-      <description>posts.md edit @ 16:40</description>
+      <guid>https://blog.woodgie.net/posts/hello-world/</guid>
+      <description>Well hello there. What&amp;rsquo;s going on here? Well I&amp;rsquo;m trying my hand at blogging, again&amp;hellip;
+This time I&amp;rsquo;m using GoHugo as the framework with the Mainroad theme, hosted on GitHub Pages. There&amp;rsquo;s some funky GitHub automation stuff going on in the background which (I&amp;rsquo;ll be honest) I don&amp;rsquo;t entirely understand yet, having been very kindly given a 101 on what to do by my friend and erstwhile colleague, Piero Mamberti. I&amp;rsquo;m sure I&amp;rsquo;ll get around to writing it up at some point.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://blog.woodgie.net/posts/my-first-post/</link>
-      <pubDate>Tue, 26 Jan 2021 18:49:44 +0000</pubDate>
+      <title>About</title>
+      <link>https://blog.woodgie.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.woodgie.net/posts/my-first-post/</guid>
-      <description>helloWorld() edit2</description>
+      <guid>https://blog.woodgie.net/about/</guid>
+      <description>Hi there.
+I&amp;rsquo;m William. Nice to meet you.</description>
     </item>
     
   </channel>
