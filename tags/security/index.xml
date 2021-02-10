@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on </title>
+    <link>https://blog.woodgie.net/tags/security/</link>
+    <description>Recent content in Security on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 08:21:09 +0000</lastBuildDate><atom:link href="https://blog.woodgie.net/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE 2021 3156: Baron Samedit</title>
+      <link>https://blog.woodgie.net/posts/cve-2021-3156_baron-samedit/</link>
+      <pubDate>Wed, 10 Feb 2021 08:21:09 +0000</pubDate>
+      
+      <guid>https://blog.woodgie.net/posts/cve-2021-3156_baron-samedit/</guid>
+      <description>Apple have posted a Knowledgebase Article detailing the content of an update which patches CVE-2021-3156 otherwise known as Baron Samedit.
+ Sudo
+Available for: macOS Big Sur 11.2, macOS Catalina 10.15.7, macOS Mojave 10.14.6 Impact: A local attacker may be able to elevate their privileges Description: This issue was addressed by updating to sudo version 1.9.5p2. CVE-2021-3156: Qualys
+ When run on a Mac with macOS 11.2 this is the difference.</description>
+    </item>
+    
+  </channel>
+</rss>
