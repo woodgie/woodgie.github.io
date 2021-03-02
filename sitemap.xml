@@ -1,84 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.woodgie.net/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/categories/big-sur/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/categories/catalina/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/categories/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/tags/cve/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/posts/cve-2021-3156_baron-samedit/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/categories/macos/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/tags/macos-updates/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/categories/mojave/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/posts/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/tags/security/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/tags/</loc>
     <lastmod>2021-02-10T08:21:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/categories/blog/</loc>
     <lastmod>2021-02-07T14:39:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/posts/hello-world/</loc>
     <lastmod>2021-02-07T14:39:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/tags/site-news/</loc>
     <lastmod>2021-02-07T14:39:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.woodgie.net/about/</loc>
   </url>
-  
 </urlset>
